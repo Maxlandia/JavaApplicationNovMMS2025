@@ -25,5 +25,9 @@ public class DataType{
 		
 		boolean isJava = true;
 		System.out.printf("Do you love learning? %b%n", isJava);
+		
+		String students = "Max";
+		System.out.printf("My name is %s", students);
 	}
+
 }
