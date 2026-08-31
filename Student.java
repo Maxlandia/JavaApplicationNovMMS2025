@@ -1,7 +1,7 @@
 //Write a static method that would return a student name when called
-public class ClassWork2{
+public class Student{
 	public static void main(String[] args){
-			System.out.println(studentName("Max"));
+			System.out.println(studentName());
 	
 	}
 		//public static string studentName(newName){
@@ -10,8 +10,7 @@ public class ClassWork2{
 			//return Name;
 		//}
 		
-		 public static string studentName(newNames){
-	 string Name = System.out.println(studentName("Name"));
-	 return Name;
+		 public static String studentName(){
+	 return "Max";
  }
 }

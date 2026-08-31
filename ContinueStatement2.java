@@ -5,7 +5,7 @@ public class ContinueStatement2{
 		int i = 1;
 		
 		while(i <=20){
-			if(i ==2 && i==8 && i==16 && i==18 && i==19 ){
+			if(i ==2|| i==8 || i==16 || i==18 || i==19 ){
 				i++;
 				continue;
 				

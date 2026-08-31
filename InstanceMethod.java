@@ -19,5 +19,5 @@ public static void main(String[] args){
  }
 }
 
-//Static Methods 	
-//Static mdthods belong to a class, not to any particular object
+//Instance Methods belong to the object of the class
+	

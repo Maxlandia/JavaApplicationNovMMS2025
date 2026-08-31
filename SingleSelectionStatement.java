@@ -4,6 +4,6 @@ public static void main (String[] args){
 	
 	if (age >= 18){
 		System.out.printf("You're %d ??, Goddamn you're old, prehistoric even", age); 
-		}
+		} 
 	}
 }

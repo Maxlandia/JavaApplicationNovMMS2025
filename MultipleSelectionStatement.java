@@ -40,7 +40,7 @@ public class MultipleSelectionStatement{
 			}
 			break;
 			
-			else if(score !==-99){
+			else {
 				System.out.printf("Student Name: %s%n", name);
 				System.out.printf("Score: %s%n", score);
 				System.out.println("Student Grade: F");
